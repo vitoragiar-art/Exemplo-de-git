@@ -2,7 +2,7 @@ commit:
 
 git status
 git add .
-git commit -m"att"
+git commit -m"exemplo"
 git push
 
 branch:
